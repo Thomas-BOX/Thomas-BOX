@@ -86,15 +86,15 @@
 ## Activité GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BOX-SNIR&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOX-SNIR&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Langages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-BOX&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-BOX&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Langages"/>
 </p>
 
 ## Me contacter
 
 <p>
   <a href="https://www.linkedin.com/in/thomas-box/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/BOX-SNIR"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Thomas-BOX"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
