@@ -93,24 +93,28 @@ Je conçois et développe des traitements de données pour des mutuelles santé 
 
 Je travaille chaque jour avec des agents de code : **Claude Code** en principal, **[OpenCode](https://github.com/sst/opencode)** (que j'utilise et auquel j'ai contribué), Cursor et Copilot dans l'IDE, **Ollama** pour les LLM en local, et **2 serveurs MCP** que j'ai écrits en TypeScript.
 
-Les plugins et skills que je garde installés :
+Les plugins, skills et serveurs MCP réellement installés sur mes postes :
 
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/obra/superpowers"><b>Superpowers</b></a><br><sub>Brainstorming, plan, tests d'abord, développement piloté par sous-agents</sub></td>
-    <td width="50%"><a href="https://github.com/multica-ai/andrej-karpathy-skills"><b>Karpathy Skills</b></a><br><sub>Règles de code tirées des notes d'Andrej Karpathy</sub></td>
+    <td width="50%"><a href="https://github.com/thedotmack/claude-mem"><b>claude-mem</b></a><br><sub>Une mémoire qui suit d'une session à l'autre, avec un modèle local</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DietrichGebert/ponytail"><b>Ponytail</b></a><br><sub>Le plus petit changement qui règle vraiment le problème</sub></td>
-    <td><a href="https://github.com/JuliusBrussee/caveman"><b>Caveman</b></a><br><sub>Réponses courtes, moins de tokens</sub></td>
+    <td width="50%"><a href="https://github.com/DietrichGebert/ponytail"><b>Ponytail</b></a><br><sub>Le plus petit changement qui règle vraiment le problème</sub></td>
+    <td width="50%"><a href="https://github.com/JuliusBrussee/caveman"><b>Caveman</b></a><br><sub>Réponses courtes, moins de tokens, dans Claude Code et OpenCode</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/thedotmack/claude-mem"><b>claude-mem</b></a><br><sub>Une mémoire qui suit d'une session à l'autre</sub></td>
-    <td><a href="https://github.com/pbakaus/impeccable"><b>Impeccable</b></a><br><sub>Vocabulaire de design pour peaufiner et critiquer une interface</sub></td>
+    <td width="50%"><a href="https://github.com/Leonxlnx/taste-skill"><b>Taste</b></a><br><sub>Direction artistique et goût visuel pour le front</sub></td>
+    <td width="50%"><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"><b>UI UX Pro Max</b></a><br><sub>Design system et bonnes pratiques UX</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"><b>UI UX Pro Max</b></a><br><sub>Design system et bonnes pratiques UX</sub></td>
-    <td><a href="https://github.com/Leonxlnx/taste-skill"><b>Taste</b></a><br><sub>Direction artistique et goût visuel pour le front</sub></td>
+    <td width="50%"><a href="https://github.com/pbakaus/impeccable"><b>Impeccable</b></a><br><sub>Peaufiner et critiquer une interface, avec ses agents de revue</sub></td>
+    <td width="50%"><a href="https://github.com/trailofbits/skills"><b>Trail of Bits</b></a><br><sub>Audit sécurité : dépendances, réglages par défaut, revue de diff</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/upstash/context7"><b>Context7</b></a><br><sub>Documentation à jour des librairies, servie par MCP</sub></td>
+    <td width="50%"><a href="https://github.com/microsoft/playwright-mcp"><b>Playwright et Chrome DevTools</b></a><br><sub>Tester et déboguer dans un vrai navigateur, par MCP</sub></td>
   </tr>
 </table>
 
