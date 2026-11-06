@@ -91,9 +91,9 @@ Je conçois et développe des traitements de données pour des mutuelles santé 
 
 ## Workflow agentique
 
-Je travaille chaque jour avec des agents de code : **Claude Code** en principal, **[OpenCode](https://github.com/sst/opencode)** (que j'utilise et auquel j'ai contribué), Cursor et Copilot dans l'IDE, **Ollama** pour les LLM en local, et **2 serveurs MCP** que j'ai écrits en TypeScript.
+Je travaille chaque jour avec des agents de code : **Claude Code** en principal, **[OpenCode](https://github.com/sst/opencode)** (que j'utilise et auquel j'ai contribué), Codex CLI, Cursor et GitHub Copilot, **Ollama** pour les LLM en local, et **2 serveurs MCP** que j'ai écrits en TypeScript.
 
-Les plugins, skills et serveurs MCP réellement installés sur mes postes :
+Les plugins, skills et serveurs MCP réellement installés sur mes deux postes, pro et perso :
 
 <table>
   <tr>
