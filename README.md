@@ -25,7 +25,7 @@ Je suis aussi **référent outillage IA** de mon équipe de 13 développeurs. J'
 | Domaine | En pratique |
 |---|---|
 | **Données et batchs** | Conception et optimisation de traitements Oracle SQL / PL-SQL, analyse de lenteurs, environnements Unix / AIX |
-| **Outillage IA** | Agents, skills et hooks partagés en équipe, serveurs MCP en TypeScript, contrôles qualité SQL assistés par IA |
+| **Outillage IA** | Agents, skills et hooks partagés en équipe, serveurs MCP en TypeScript, contrôles qualité SQL assistés par IA ; utilisateur et contributeur d'[OpenCode](https://github.com/sst/opencode) |
 | **Industrialisation** | Git / GitLab CI, Jenkins, Maven, livraisons automatisées, génération de documentation |
 | **Développement web** | Projets personnels en TypeScript, Python et PostgreSQL, du code jusqu'au déploiement |
 
@@ -60,6 +60,7 @@ Je suis aussi **référent outillage IA** de mon équipe de 13 développeurs. J'
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/OpenCode-211E1E?style=flat-square" alt="OpenCode"/>
   <img src="https://img.shields.io/badge/MCP-1F2937?style=flat-square" alt="Model Context Protocol"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
