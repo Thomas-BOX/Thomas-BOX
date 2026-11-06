@@ -116,6 +116,10 @@ Les plugins, skills et serveurs MCP réellement installés sur mes postes :
     <td width="50%"><a href="https://github.com/upstash/context7"><b>Context7</b></a><br><sub>Documentation à jour des librairies, servie par MCP</sub></td>
     <td width="50%"><a href="https://github.com/microsoft/playwright-mcp"><b>Playwright et Chrome DevTools</b></a><br><sub>Tester et déboguer dans un vrai navigateur, par MCP</sub></td>
   </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/usestrix/strix"><b>Strix</b></a><br><sub>Tests d'intrusion et audit de sécurité web menés par des agents</sub></td>
+    <td width="50%"><a href="https://www.remotion.dev"><b>Remotion et Motion</b></a><br><sub>Vidéos et animations générées en code</sub></td>
+  </tr>
 </table>
 
 Au travail, j'ai monté un socle partagé de skills, sous-agents, règles et hooks, synchronisé automatiquement sur Claude Code, Cursor et OpenCode et vérifié par une CI. Les agents préparent l'analyse et le code, et une validation humaine reste obligatoire avant toute action sensible.
