@@ -4,11 +4,6 @@
   <strong>Ingénieur concepteur</strong> · Cegedim Insurance Solutions · Toulouse
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thomas-box/"><img src="https://img.shields.io/badge/LinkedIn-thomas--box-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:thomas.box.fr@gmail.com"><img src="https://img.shields.io/badge/Email-thomas.box.fr%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
 ---
 
 ## À propos
