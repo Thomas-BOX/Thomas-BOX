@@ -91,20 +91,26 @@ Je conçois et développe des traitements de données pour des mutuelles santé 
 
 ## Workflow agentique
 
-Je travaille chaque jour avec des agents de code, que j'adapte avec des skills, des sous-agents et des serveurs MCP. Les outils que je garde installés :
+Je travaille chaque jour avec des agents de code : **Claude Code** en principal, **[OpenCode](https://github.com/sst/opencode)** (que j'utilise et auquel j'ai contribué), Cursor et Copilot dans l'IDE, **Ollama** pour les LLM en local, et **2 serveurs MCP** que j'ai écrits en TypeScript.
+
+Les plugins et skills que je garde installés :
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/anthropics/claude-code"><b>Claude Code</b></a><br><sub>Mon agent principal, du ticket jusqu'à la revue</sub></td>
-    <td width="50%"><a href="https://github.com/sst/opencode"><b>OpenCode</b></a><br><sub>Agent open source, que j'utilise et auquel j'ai contribué</sub></td>
+    <td width="50%"><a href="https://github.com/obra/superpowers"><b>Superpowers</b></a><br><sub>Brainstorming, plan, tests d'abord, développement piloté par sous-agents</sub></td>
+    <td width="50%"><a href="https://github.com/multica-ai/andrej-karpathy-skills"><b>Karpathy Skills</b></a><br><sub>Règles de code tirées des notes d'Andrej Karpathy</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DietrichGebert/ponytail"><b>Ponytail</b></a><br><sub>Le plus petit changement qui règle vraiment le problème</sub></td>
+    <td><a href="https://github.com/JuliusBrussee/caveman"><b>Caveman</b></a><br><sub>Réponses courtes, moins de tokens</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/thedotmack/claude-mem"><b>claude-mem</b></a><br><sub>Une mémoire qui suit d'une session à l'autre</sub></td>
-    <td><a href="https://modelcontextprotocol.io"><b>MCP</b></a><br><sub>2 serveurs écrits en TypeScript pour brancher les agents sur les outils du quotidien</sub></td>
+    <td><a href="https://github.com/pbakaus/impeccable"><b>Impeccable</b></a><br><sub>Vocabulaire de design pour peaufiner et critiquer une interface</sub></td>
   </tr>
   <tr>
-    <td><a href="https://cursor.com"><b>Cursor</b></a> et <a href="https://github.com/features/copilot"><b>Copilot</b></a><br><sub>Édition assistée dans l'IDE</sub></td>
-    <td><a href="https://ollama.com"><b>Ollama</b></a><br><sub>Des LLM en local, sans envoyer les données ailleurs</sub></td>
+    <td><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"><b>UI UX Pro Max</b></a><br><sub>Design system et bonnes pratiques UX</sub></td>
+    <td><a href="https://github.com/Leonxlnx/taste-skill"><b>Taste</b></a><br><sub>Direction artistique et goût visuel pour le front</sub></td>
   </tr>
 </table>
 
