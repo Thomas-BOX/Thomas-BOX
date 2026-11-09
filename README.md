@@ -27,7 +27,7 @@ Je suis ingénieur concepteur chez **Cegedim Insurance Solutions**, à Toulouse.
 <table>
   <tr>
     <td width="180"><b><a href="https://cuisines-delaurent.fr">cuisines-delaurent.fr</a></b><br><sub>en production</sub></td>
-    <td>Le site de mon père, artisan agenceur. J'ai remplacé son vieux WordPress par un site Astro plus rapide, avec des tests et un déploiement automatique.<br><sub>Astro · TypeScript · Tailwind CSS · Vitest · Playwright · GitHub Actions</sub></td>
+    <td>Site vitrine pour un artisan agenceur de cuisines, un vrai client. J'ai remplacé son ancien WordPress par un site Astro plus rapide, avec des tests et un déploiement automatique.<br><sub>Astro · TypeScript · Tailwind CSS · Vitest · Playwright · GitHub Actions</sub></td>
   </tr>
   <tr>
     <td><b>Portail locatif</b></td>
