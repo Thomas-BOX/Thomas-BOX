@@ -126,6 +126,6 @@ Au travail, le dépôt commun de l'équipe se synchronise tout seul sur Claude C
 
 ## Formation
 
-- **Master Informatique**, parcours Réseaux et objets connectés · CNAM · 2024 (en alternance)
-- **Licence Informatique** (L3) · CNAM · 2022
-- **BTS Systèmes numériques**, option informatique et réseaux · 2021
+- **Master** Sciences, Technologies, Santé, mention Informatique, parcours Réseaux et objets connectés, en alternance · CNAM · 2024
+- **Licence Informatique** (L3) · CNAM et IMERIR · 2022
+- **BTS SNIR** (Systèmes numériques, option informatique et réseaux) · Lycée Pierre-Paul Riquet, Saint-Orens · 2021
